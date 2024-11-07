@@ -13,16 +13,16 @@ Dedicated Chemical Engineering student with hands-on experience in conducting an
 - Taipei Yanping High School	|  (_June 2023_)	 			        		
 
 ## EXPERIENCE
-### Intern @ National Museum of Marine Science & Technology, Museum Management Division
-**/ Keelung, Taiwan / (_July 2024 - August 2024_)**
+### [Intern @ National Museum of Marine Science & Technology, Museum Management Division]
+   **/ Keelung, Taiwan / (_July 2024 - August 2024_)**
 - Produced engaging promotional videos for Instagram and Facebook, increasing video viewership by over 50% and significantly boosting museum visibility.
 - Represented NMMST at the Taiwan External Trade Development Council Hall, effectively engaging with visitors and promoting the museum’s unique marine life exhibits, resulting in an increase in visitor inquiries.
 - Coordinated logistics and safety measures for educational camps, managing the activities of 25 children while ensuring an interactive and safe environment.
 - Collaborated with museum guides to capture event photography, enhancing the documentation of the museum's activities and outreach programs.
 - Provided constructive feedback on an Alternate Reality Game (ARG) development, suggesting improvements that enhanced user experience and engagement.
 
-### International Volunteer @ Education service
-**/ Online / (_September 2023 - November 2023_)**
+### [International Volunteer @ Education service]
+   **/ Online / (_September 2023 - November 2023_)**
 - Contributed to the "Collaborative Learning Through Innovative International Education Services" project, preparing and delivering lessons to children in Africa.
 - Taught SDGs-related topics, including global warming and ways to mitigate its effects, while learning about African cultures and improving English communication skills.
 - Developed and delivered engaging lessons on Sustainable Development Goals (SDGs) to children in Africa, focusing on global warming and mitigation strategies, enhancing students' understanding of environmental issues.
