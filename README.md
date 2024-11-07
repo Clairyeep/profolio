@@ -7,10 +7,11 @@
 Dedicated Chemical Engineering student with hands-on experience in conducting and managing experiments, analyzing data, and comparing theoretical values with real-world results. Passionate about leveraging skills in process control and data analysis for future opportunities in experiment management and operations.
 
 ## EDUCATION
-- B.S., ChE | National Taiwan University of Science and Technology (_May 2026_)								       		
+- B.S., ChE | National Taiwan University of Science and Technology (_May 2026_)
+- Taipei Yanping High School	|  (_June 2023_)	 			 								       		
 - Relevant Coursework: Physical Chemistry, Chemical Process Control, Reaction Engineering, Thermodynamics
 - Project: Designed and conducted experiments, analyzed process efficiency, and optimized reaction parameters for industrial applications.
-- Taipei Yanping High School	|  (_June 2023_)	 			        		
+       		
 
 ## EXPERIENCE
 ### [Intern @ National Museum of Marine Science & Technology, Museum Management Division]
