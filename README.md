@@ -5,6 +5,12 @@
 ### PROFESSIONAL SUMMARY
 Dedicated Chemical Engineering student with hands-on experience in conducting and managing experiments, analyzing data, and comparing theoretical values with real-world results. Passionate about leveraging skills in process control and data analysis for future opportunities in experiment management and operations.
 
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
+- 
 ## EDUCATION
 - B.S., ChE |  National Taiwan University of Science and Technology (_May 2026_)								       		
 - Taipei Yanping High School (_June 2023_)	 			       
